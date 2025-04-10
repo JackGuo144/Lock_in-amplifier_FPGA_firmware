@@ -1,7 +1,9 @@
 # Lock_in-amplifier_FPGA_firmware
-+
+
 This is the repository for the Lock_in-amplifier_FPGA_firmware
+
 Source code files are available under the source_code folder.
+
 The project file is available at https://livemanchesterac-my.sharepoint.com/:u:/g/personal/xinhang_guo_student_manchester_ac_uk/ESRG9-oFYYVLs-GzcVDvnDEB5z_VKL81eVPpH6OLPbXVag?e=ZlZIHY
 
 To use the FPGA firmware on Red Pitaya, please follow the instructions below:
